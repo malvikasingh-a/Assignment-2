@@ -1,3 +1,3 @@
 # Assignment-2
 #I have completed task-1 and task-2 in this
-#Run i#t by python task1.py/task2.py command
+#Run it by python task1.py/task2.py command
